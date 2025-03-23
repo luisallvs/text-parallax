@@ -7,7 +7,7 @@ This project is a modern, scroll-animated landing page built with Next.js, Frame
 1. **Clone the Repository:**
 
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/luisallvs/text-parallax
    cd text-parallax
    ```
 
